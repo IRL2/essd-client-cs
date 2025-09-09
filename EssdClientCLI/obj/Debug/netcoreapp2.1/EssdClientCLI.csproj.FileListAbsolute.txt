@@ -1,0 +1,17 @@
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\EssdClientCLI.deps.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\EssdClientCLI.runtimeconfig.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\EssdClientCLI.runtimeconfig.dev.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\EssdClientCLI.dll
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\EssdClientCLI.pdb
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\Essd.dll
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\bin\Debug\netcoreapp2.1\Essd.pdb
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.csproj.AssemblyReference.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.AssemblyInfoInputs.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.AssemblyInfo.cs
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.csproj.CoreCompileInputs.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.sourcelink.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClie.FC44385F.Up2Date
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.dll
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.pdb
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\EssdClientCLI\obj\Debug\netcoreapp2.1\EssdClientCLI.genruntimeconfig.cache

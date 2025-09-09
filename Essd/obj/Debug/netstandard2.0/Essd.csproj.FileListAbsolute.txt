@@ -1,0 +1,11 @@
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\bin\Debug\netstandard2.0\Essd.deps.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\bin\Debug\netstandard2.0\Essd.dll
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\bin\Debug\netstandard2.0\Essd.pdb
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.csproj.AssemblyReference.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.AssemblyInfoInputs.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.AssemblyInfo.cs
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.csproj.CoreCompileInputs.cache
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.sourcelink.json
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.dll
+C:\Users\ragzo\Documents\REPOS\nanover-protocol\csharp-libraries\Essd\obj\Debug\netstandard2.0\Essd.pdb

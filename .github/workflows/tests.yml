@@ -1,0 +1,16 @@
+on: [push]
+name: "Tests and validation"
+
+jobs:
+  csharp-tests:
+    name: C# unit and integration tests
+    runs-on: ubuntu-22.04
+    env:
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '2.1.x'
+      - name: Tests
+        run: dotnet test
